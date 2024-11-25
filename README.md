@@ -5,9 +5,11 @@
 멈추지 않고 지속적으로 성장하는 개발자가 되고자 합니다.
 
 # 프로젝트
-
+### 개인 프로젝트
 [Sol.Pic](https://github.com/SolPict/SolPic-client) <br>
 수학문제 이미지를 AI를 활용해 풀이과정과 정답을 제공해주는 모바일기반 어플리케이션 입니다.
+
+### 팀 프로젝트
 
 [DeliOrder](https://github.com/DeliOrder/DeliOrder-Client) <br>
 사용자가 파일 작업 자동화 매크로를 만들고 쉽게 공유하여 실행할 수 있는 서비스를 제공하는 데스크탑 애플리케이션 입니다.
