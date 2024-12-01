@@ -28,7 +28,7 @@
 
   <a href="mailto:subo.developer@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ies041196@gmail.com"/></a>
   <a href="https://catnip-puppy-52c.notion.site/Subo-s-12c7604d886e8076bf43df3c2826888b?pvs=4"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
-
+    <a href="https://medium.com/@sheeep555"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>
 
 
 <!--
