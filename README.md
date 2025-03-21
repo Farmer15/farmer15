@@ -19,7 +19,7 @@
  
 ### 팀 프로젝트
 
-[DeliOrder](https://github.com/DeliOrder/DeliOrder-Client) <br>
+[DeliOrder](https://github.com/Farmer15/DeliOrder-Client) <br>
 > 사용자가 파일 작업 자동화 매크로를 만들고 쉽게 공유하여 실행할 수 있는 서비스를 제공하는 데스크톱 애플리케이션입니다.
 >
 > Electron을 통한 파일 시스템 접근으로 작업 자동화 시스템 제공해줍니다. <br>
