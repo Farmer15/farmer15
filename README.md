@@ -11,7 +11,7 @@
 
 # 프로젝트
 ### 개인 프로젝트
-[Sol.Pic](https://github.com/SolPict/SolPic-client) <br>
+[Sol.Pic](https://github.com/SolPict/SolPic-client) -  <a href="https://apps.apple.com/us/app/sol-pic/id6743796011">앱 다운로드</a>   <br>  
 > 수학문제 이미지를 AI를 활용해 풀이과정과 정답을 제공해주는 모바일기반 어플리케이션 입니다.
 >
 > Python을 통한 딥러닝 AI를 이용해 알맞은 정답과 최적의 문제풀이 제공해줍니다. <br>
